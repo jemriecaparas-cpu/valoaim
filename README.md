@@ -1,2 +1,1 @@
-# valoaim
-aim train lol
+aim train
